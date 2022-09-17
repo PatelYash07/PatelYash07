@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-![image](https://user-images.githubusercontent.com/99068989/190572871-71a805f1-fb4a-49f3-a26c-294a9c75e53d.png)
-
+![image](https://user-images.githubusercontent.com/106796537/190861692-9031bf50-fd00-4dec-8362-2a23a4c05aec.png)
 
 Here are some ideas to get you started:
 
