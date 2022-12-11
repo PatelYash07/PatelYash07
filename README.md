@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yash2432000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hNJvUzJZf5ADHusQQodCd0wNz7kTPNMA/view?usp=sharing](https://drive.google.com/file/d/1hNJvUzJZf5ADHusQQodCd0wNz7kTPNMA/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1qbbh7rC15d1XYsAtnnDFuz1AbJjtKcBd/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
